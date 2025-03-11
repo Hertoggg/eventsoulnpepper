@@ -1,0 +1,68 @@
+[
+    {
+      "name": "Andrea Sabatini",
+      "role": "Drums",
+      "image": "assets/img/fotoAndrea.png",
+      "icon": "fas fa-drum"
+    },
+    {
+      "name": "Anne Boumeester",
+      "role": "Zang",
+      "image": "assets/img/fotoAnne.png",
+      "icon": "fas fa-microphone"
+    },
+    {
+      "name": "Joep van Asperen",
+      "role": "Altsaxofoon",
+      "image": "assets/img/fotoJoep.png",
+      "icon": "fas fa-saxophone-alt"
+    },
+    {
+      "name": "Korneel Jeuken",
+      "role": "Trombone",
+      "image": "assets/img/fotoKorneel.png",
+      "icon": "fas fa-trombone"
+    },
+    {
+      "name": "Leon van Mook",
+      "role": "Basgitaar",
+      "image": "assets/img/fotoLeon.png",
+      "icon": "fas fa-guitar"
+    },
+    {
+      "name": "Rob Roosendaal",
+      "role": "Gitaar",
+      "image": "assets/img/fotoRob.png",
+      "icon": "fas fa-guitar"
+    },
+    {
+      "name": "Ilse van Uden",
+      "role": "Zang",
+      "image": "assets/img/fotoIlse.jpg",
+      "icon": "fas fa-microphone"
+    },
+    {
+      "name": "Inge Janssen",
+      "role": "Zang",
+      "image": "assets/img/fotoInge.png",
+      "icon": "fas fa-microphone"
+    },
+    {
+      "name": "Henk Scholten",
+      "role": "Altsaxofoon, sopraansaxofoon & mondharmonica",
+      "image": "assets/img/fotoHenk.png",
+      "icon": "fas fa-harmonica"
+    },
+    {
+      "name": "Jeanpaul Pino",
+      "role": "Trompet",
+      "image": "assets/img/fotoJeanPaul.png",
+      "icon": "fas fa-trumpet"
+    },
+    {
+      "name": "Urias Nooteboom",
+      "role": "Toetsen",
+      "image": "assets/img/fotoUrias.jpg",
+      "icon": "fas fa-keyboard"
+    }
+  ]
