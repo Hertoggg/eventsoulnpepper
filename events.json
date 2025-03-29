@@ -1,20 +1,34 @@
 [
     {
+      "title": "Verjaardagsfeest",
+      "date": "2025-03-15",
+      "location": "Nijmegen",
+      "privacy": "private",
+      "details": ""
+    },
+    {
       "title": "Muziekfestein",
       "date": "2025-04-13",
       "location": "wijkcentrum de schalmei, Neerbosch oost",
       "privacy": "public",
-      "details": "Gratis entree, 20.45"
+      "details": "wordt nog bekend"
     },
     {
-      "title": "Kultuurele Zondag",
+      "title": "kultuurele Zondag",
       "date": "2025-06-15",
       "location": "wijkfabriek Wolfskuil",
       "privacy": "public",
-      "details": "Gratis entree, tijd wordt nog bekend"
+      "details": "Gratis entree, tijd wordt nog bekend.:)"
     },
     {
       "title": "Besloten feest",
+      "date": "2025-06-28",
+      "location": "Zyfflich, Duitsland",
+      "privacy": "privé",
+      "details": ""
+    },
+    {
+      "title": "besloten feest",
       "date": "2025-07-05",
       "location": "Zyfflich, Duitsland",
       "privacy": "privé",
@@ -26,13 +40,5 @@
       "location": "het Koelhuis, Zutphen",
       "privacy": "public",
       "details": "Gratis entree, tijd wordt nog bekend.:)"
-    },
-    {
-      "title": "Besloten feest",
-      "date": "2025-11-15",
-      "location": "Zyfflich, Duitsland",
-      "privacy": "privé",
-      "details": ""
-    },
+    }
   ]
-  
