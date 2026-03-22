@@ -1,34 +1,27 @@
 [
     {
-      "title": "Verjaardagsfeest",
-      "date": "2025-03-15",
-      "location": "Nijmegen",
-      "privacy": "private",
-      "details": ""
-    },
-    {
-      "title": "Muziekfestein",
-      "date": "2025-04-13",
-      "location": "wijkcentrum de schalmei, Neerbosch oost",
+      "title": "Dag van het Florapark",
+      "date": "2025-05-25",
+      "location": "'t Sfeerhuys bij De Looimolen, Nijmegen",
       "privacy": "public",
-      "details": "wordt nog bekend"
+      "details": "Gratis entree, 17.00-18.00"
     },
     {
-      "title": "kultuurele Zondag",
+      "title": "Muzikale middag in Beek",
+      "date": "2025-05-31",
+      "location": "Brasserie Charley, Beek",
+      "privacy": "public",
+      "details": "Gratis entree, 16.00-18.00"
+    },
+    {
+      "title": "Kultuurele Zondag",
       "date": "2025-06-15",
       "location": "wijkfabriek Wolfskuil",
       "privacy": "public",
-      "details": "Gratis entree, tijd wordt nog bekend.:)"
+      "details": "Gratis entree, 16.00-17.00"
     },
     {
       "title": "Besloten feest",
-      "date": "2025-06-28",
-      "location": "Zyfflich, Duitsland",
-      "privacy": "privé",
-      "details": ""
-    },
-    {
-      "title": "besloten feest",
       "date": "2025-07-05",
       "location": "Zyfflich, Duitsland",
       "privacy": "privé",
@@ -39,7 +32,14 @@
       "date": "2025-08-22",
       "location": "het Koelhuis, Zutphen",
       "privacy": "public",
-      "details": "Gratis entree, tijd wordt nog bekend.:)"
+      "details": "Gratis entree, 19.00-21.00"
+    },
+    {
+      "title": "Besloten feest",
+      "date": "2025-11-15",
+      "location": "Zyfflich, Duitsland",
+      "privacy": "privé",
+      "details": ""
     },
     {
       "title": "Live in Arnhem!",
@@ -70,4 +70,3 @@
       "details": "Gratis entree, tijd wordt nog bekend.:)"
     }
   ]
-  
