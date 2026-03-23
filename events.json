@@ -46,7 +46,7 @@
       "date": "2026-05-31",
       "location": "Café Bar Billiards Atlanta, Arnhem",
       "privacy": "public",
-      "details": "Gratis entree, 18:00-21:00"
+      "details": "Gratis entree, 18.00-21.00"
     },
     {
       "title": "Carolinafestival",
@@ -74,6 +74,6 @@
       "date": "2026-11-07",
       "location": "Podium Doesburg, Doesburg",
       "privacy": "public",
-      "details": "Gratis entree, 20:00-22:00"
+      "details": "Gratis entree, 20.00-22.00"
     }
   ]
