@@ -42,11 +42,11 @@
       "details": ""
     },
     {
-      "title": "Live in Arnhem!",
+      "title": "Live in Arnhem",
       "date": "2026-05-31",
       "location": "Café Bar Billiards Atlanta, Arnhem",
       "privacy": "public",
-      "details": "Gratis entree, tijd wordt nog bekend.:)"
+      "details": "Gratis entree, 18:00-21:00"
     },
     {
       "title": "Carolinafestival",
@@ -68,5 +68,12 @@
       "location": "Kulturhus, Beek",
       "privacy": "public",
       "details": "Gratis entree, tijd wordt nog bekend.:)"
+    },
+    {
+      "title": "Live in Doesburg",
+      "date": "2026-11-07",
+      "location": "Podium Doesburg, Doesburg",
+      "privacy": "public",
+      "details": "Gratis entree, 20:00-22:00"
     }
   ]
